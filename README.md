@@ -6,9 +6,10 @@ Pokazuję o mnie co umiem i opisuje siebie. To jest testowa strona
 -Css
 
 ##Jak odpalić?
-Pobierasz te pliki poniżej i je otwierasz, robiłem je w visualstudio
+ Pobierasz te pliki poniżej i je otwierasz, robiłem je w visualstudio
 
-[index.html](https://github.com/user-attachments/files/23374365/index.html)
-![jape](https://github.com/user-attachments/assets/362f2e87-51cf-4f6c-8cc0-260b7961ae95)
-[style.css](https://github.com/user-attachments/files/23374370/style.css)
+
+[Upload![jape](https://github.com/user-attachments/assets/bdab5b4b-71ee-4e2e-8c70-5963f7c03a27)
+[style.css](https://github.com/user-attachments/files/23374470/style.css)
+[index.html](https://github.com/user-attachments/files/23374469/index.html)
 
