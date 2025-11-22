@@ -1,6 +1,6 @@
 # Moja-strona
 Pokazuję to co umiem portfolio. To jest testowa strona.
-This is my portfolio and Is my tet site.
+This is my portfolio and Is my test site.
 
 ##Technologie:
 ##Technology:
