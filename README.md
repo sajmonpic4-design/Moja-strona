@@ -1,15 +1,21 @@
 # Moja-strona
-Pokazuję o mnie co umiem i opisuje siebie. To jest testowa strona
+Pokazuję to co umiem portfolio. To jest testowa strona.
+This is my portfolio and Is my tet site.
 
 ##Technologie:
+##Technology:
 -Html
 -Css
+-Java Scrypt
 
 ##Jak odpalić?
- Pobierasz te pliki poniżej i je otwierasz, robiłem je w visualstudio
+##how to start?
+ Pobierasz te pliki poniżej i je otwierasz w visualstudio.
+ You download these files and open them in visual studio.
 
 
-[Upload! [jape](https://github.com/user-attachments/assets/bdab5b4b-71ee-4e2e-8c70-5963f7c03a27)
-[style.css](https://github.com/user-attachments/files/23374470/style.css)
-[index.html](https://github.com/user-attachments/files/23374469/index.html)
-
+##Uploud
+[index.html](https://github.com/user-attachments/files/23689597/index.html)
+![polska](https://github.com/user-attachments/assets/0d103ff7-d57a-4fef-9150-0545d0e4719a)
+[style.css](https://github.com/user-attachments/files/23689599/style.css)
+[script.js](https://github.com/user-attachments/files/23689598/script.js)
