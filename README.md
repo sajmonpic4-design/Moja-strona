@@ -16,6 +16,6 @@ This is my portfolio and Is my tet site.
 
 ##Uploud
 [index.html](https://github.com/user-attachments/files/23689597/index.html)
-[uploud]![polska](https://github.com/user-attachments/assets/0d103ff7-d57a-4fef-9150-0545d0e4719a)
+![polska](https://github.com/user-attachments/assets/0d103ff7-d57a-4fef-9150-0545d0e4719a)
 [style.css](https://github.com/user-attachments/files/23689599/style.css)
 [script.js](https://github.com/user-attachments/files/23689598/script.js)
